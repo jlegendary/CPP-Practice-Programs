@@ -1,10 +1,8 @@
 //
 //  main.cpp
-//  Chapter 2- Problem 1
-//
 //  Created by Lejendary on 6/6/15.
 //  Copyright (c) 2015 Lejendary. All rights reserved.
-//cout << "Total is: " << static_cast<int> (m) << m << endl;
+//
 
 #include <iostream>
 using namespace std;
@@ -25,7 +23,7 @@ int main ()
     //convert to integer by switching to int
     t = m + 0.5;
     // output
-    cout << "Total is: " << t << endl;
+    cout << "Total is: " << static_cast<int> (t) << t << endl;
     return 0;
 }
 
