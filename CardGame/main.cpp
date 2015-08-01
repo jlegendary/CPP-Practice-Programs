@@ -10,6 +10,7 @@
 #include <string> // Needed to use strings
 #include <cstdlib> // Needed to use random numbers
 #include <ctime>
+
 using namespace std;
 
 void drawLine(int n, char symbol);
