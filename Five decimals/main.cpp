@@ -20,10 +20,10 @@ int main ()
     cin >> numOne >> numTwo >> numThree >> numFour >> numFive;
     //sum
     m = numOne + numTwo + numThree + numFour + numFive;
-    //convert to integer by switching to int
-    t = m + 0.5;
+    
     // output
-    cout << "Total is: " << static_cast<int> (t) << t << endl;
+    cout << "Total is: " << static_cast<int> (m) << m << endl;
+    
     return 0;
 }
 
