@@ -14,3 +14,6 @@ C++ Practice Program:
 
 5. Rock Paper Scissors Game
 	- Play rock paper scissor.
+
+6. ShareSock
+	- Find out how much you made on a stock share.
