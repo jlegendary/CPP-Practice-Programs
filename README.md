@@ -17,3 +17,6 @@ C++ Practice Program:
 
 6. ShareSock
 	- Find out how much you made on a stock share.
+
+7. VolumeFormula
+	- With mass and density, find the volume.
