@@ -20,3 +20,6 @@ C++ Practice Program:
 
 7. VolumeFormula
 	- With mass and density, find the volume.
+
+8. RightTriangle
+	- Find if it is right triangle or not, with 3 triangle sides.
