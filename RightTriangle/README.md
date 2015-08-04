@@ -1,0 +1,1 @@
+Enter length of 3 sides and find out if it is a right triangle.
