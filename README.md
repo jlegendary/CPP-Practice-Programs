@@ -23,3 +23,6 @@ C++ Practice Program:
 
 8. RightTriangle
 	- Find if it is right triangle or not, with 3 triangle sides.
+
+9. ThreeNumOrder
+	- Input 3 digits, output the digits in ascending order.
