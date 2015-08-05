@@ -26,3 +26,6 @@ C++ Practice Program:
 
 9. ThreeNumOrder
 	- Input 3 digits, output the digits in ascending order.
+
+10. QuadraticFormula
+	- Input a, b, c, and output the root(s).
