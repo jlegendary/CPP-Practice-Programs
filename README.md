@@ -38,4 +38,4 @@ C++ Practice Program:
 		- Double-spaced or Single-spaced
 
 12. BasicCalculator
-	- Can perform basic calculating functions:
+	- Can perform basic calculating functions.
