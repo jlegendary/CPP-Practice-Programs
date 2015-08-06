@@ -29,3 +29,10 @@ C++ Practice Program:
 
 10. QuadraticFormula
 	- Input a, b, c, and output the root(s).
+
+11. CharOnPaper
+	- Calculate the numbe of characters in a line and the number of lines that can be printed on a paper based on:
+		- Length and width of paper(inches)
+		- Top, bottom, left, and right margins
+		- Point size of a line
+		- Double-spaced or Single-spaced
