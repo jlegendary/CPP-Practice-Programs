@@ -36,3 +36,6 @@ C++ Practice Program:
 		- Top, bottom, left, and right margins
 		- Point size of a line
 		- Double-spaced or Single-spaced
+
+12. BasicCalculator
+	- Can perform basic calculating functions:
