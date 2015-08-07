@@ -39,3 +39,6 @@ C++ Practice Program:
 
 12. BasicCalculator
 	- Can perform basic calculating functions.
+
+13. BillAmount
+	- Input and calculate the remaining balance.
