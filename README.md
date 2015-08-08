@@ -42,3 +42,6 @@ C++ Practice Program:
 
 13. BillAmount
 	- Input and calculate the remaining balance.
+
+14. EvenOddNum
+	- Add evens togther and odds together, display result.
