@@ -45,3 +45,6 @@ C++ Practice Program:
 
 14. EvenOddNum
 	- Add evens togther and odds together, display result.
+
+15. MergeTwoFiles
+	- Merge two files into one output file.
