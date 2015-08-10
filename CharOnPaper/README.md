@@ -1,4 +1,5 @@
-Write a program that calculates the number of characters in a line and the number of lines that can be printed on a paper based on the following input from the user:
+Problem:
+  Write a program that calculates the number of characters in a line and the number of lines that can be printed on a paper based on the following input from the user:
 
 
 Algorithm:
