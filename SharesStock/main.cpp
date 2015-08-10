@@ -1,8 +1,8 @@
 //
 //  main.cpp
 //
-//  Created by Lejendary on 8/3/15.
-//  Copyright (c) 2015 Lejendary. All rights reserved.
+//  Created by JLegendary on 8/3/15.
+//  Copyright (c) 2015 JLegendary. All rights reserved.
 //
 
 #include <iostream>
