@@ -37,7 +37,7 @@ C++ Practice Program:
 		- Point size of a line
 		- Double-spaced or Single-spaced
 
-12. BasicCalculator
+12. Basic Calculator
 	- Can perform basic calculating functions.
 
 13. BillAmount
