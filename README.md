@@ -47,4 +47,7 @@ C++ Practice Program:
 	- Add evens togther and odds together, display result.
 
 15. MergeTwoFiles
-	- Merge two files into one output file.
+	- Merge two files into one output file. 
+
+16. FindNumOfVowel
+	- Input word, output number of vowels.
