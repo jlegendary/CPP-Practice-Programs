@@ -1,3 +1,11 @@
+//
+//  main.cpp
+//
+//  Created by JLegendary on 8/1/15.
+//  Copyright (c) 2015 JLegendary. All rights reserved.
+//
+
+
 #include <iostream>
 
 char block[10] = {'0', '1', '2', '3', '4', '5', '6', '7', '8', '9'};
