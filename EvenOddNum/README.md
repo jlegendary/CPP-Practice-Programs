@@ -1,8 +1,9 @@
-
- Proiblem: Write a program that reads a set of integers and then finds and prints the sum of the even and odd integers. Assume that the input comes from the keyboard (interactive) and the output goes to the monitor.
+Problem: 
+	Write a program that reads a set of integers and then finds and prints the sum of the even and odd integers. 
  
- Analysis: Given the number of interes to sum, separately calculate the sum of all even and odd intergers in that series.
-    even numbers are divisible by 2
+ Analysis: 
+ 	Given the number of interes to sum, separately calculate the sum of all even and odd intergers in that series.
+    Even numbers are divisible by 2
  
  Input:
     numInt: The number of intergers to sum
