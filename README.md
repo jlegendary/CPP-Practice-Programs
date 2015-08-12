@@ -51,3 +51,6 @@ C++ Practice Program:
 
 16. FindNumOfVowel
 	- Input word, output number of vowels.
+
+17. Reverse Number
+	- Input number, reverse the number.
