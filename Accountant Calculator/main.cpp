@@ -1,5 +1,5 @@
 //
-//  Accountant Calculation
+//  Accountant Calculator
 //   Find the accountant bill.
 //
 //  Created by JLegendary on 8/13/15.

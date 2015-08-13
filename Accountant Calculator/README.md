@@ -6,13 +6,9 @@ Problem:
     b. For others, if the consulting time is less than or equal to 20 minutes, there are  no  service  charges;  otherwise, 
        service  charges  are  70%  of  the regular hourly rate for the time over 20 minutes.
  
- (For example, suppose that a person has low income and spent 1 hour and 15 minutes, and the hourly rate is $70.00. Then the 
-  billing amount is 70.00 x 0.40 x (45/ 60) = $21.00.)
+
  
-  Write a program that prompts the user to enter the hourly rate, the total consulting time, and whether the person has low
-  income. The program should output the billing amount. Analyze and design the program, then write the code. Turn in your
-  analysis and design, and your source code. You must use functions in your design and use the appropriate mechanism for
-  passing your parameters (by value or by reference). Do not use global variables.
+  Write a program that prompts the user to enter the hourly rate, the total consulting time, and whether the person has low income. The program should output the billing amount.
 
 Analysis:
  With the given income, consult time, and hourly rate, determine the bill
