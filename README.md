@@ -60,3 +60,6 @@ C++ Practice Program:
 
 19. Interest Calculator
 	- Input loan amount, interest rate per year, number of payments in a year, and loan year, output the interest information.
+
+20. Accountant Calculator
+	- Input hourly rate, total consult time, and income, output bill.
