@@ -53,4 +53,7 @@ C++ Practice Program:
 	- Input word, output number of vowels.
 
 17. Reverse Number
-	- Input number, reverse the number.
+	- Input number, reverse the number. 
+
+18. Circle
+	- Input center and a point on a circle, output circle's radius, diameter, circumference, and area.
