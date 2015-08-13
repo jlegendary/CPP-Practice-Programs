@@ -57,3 +57,6 @@ C++ Practice Program:
 
 18. Circle
 	- Input center and a point on a circle, output circle's radius, diameter, circumference, and area.
+
+19. Interest Calculator
+	- Input loan amount, interest rate per year, number of payments in a year, and loan year, output the interest information.
