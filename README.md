@@ -66,3 +66,6 @@ C++ Practice Program:
 
 21. Day Of Year
 	- Input month-day-year, output day number of the year.
+
+22. Number of Odd, Even, and Zero digits
+	- Input a digit, output number of odd, even, and zero digits.
