@@ -69,3 +69,6 @@ C++ Practice Program:
 
 22. Number of Odd, Even, and Zero digits
 	- Input a digit, output number of odd, even, and zero digits.
+
+23. Senior Fitness Center Cost
+	- Find the membership for senior fitness center, depeding on their criteria.
