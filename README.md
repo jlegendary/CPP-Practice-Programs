@@ -72,3 +72,6 @@ C++ Practice Program:
 
 23. Senior Fitness Center Cost
 	- Find the membership for senior fitness center, depeding on their criteria.
+
+24. Coffee Store
+	- Build a coffee store program: Can order coffee, display number of cups sold, display total money made.
