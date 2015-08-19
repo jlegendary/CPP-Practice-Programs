@@ -75,3 +75,6 @@ C++ Practice Program:
 
 24. Coffee Store
 	- Build a coffee store program: Can order coffee, display number of cups sold, display total money made.
+
+25. Remove Vowels
+	- Input string, output strings without vowels.
