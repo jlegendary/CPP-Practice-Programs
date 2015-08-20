@@ -9,6 +9,7 @@
    pay at least 20% of the billingAmount and less than 50% 
    of the billingAmount, the penalty is 10% of the balance; 
    otherwise, the penalty is 20% of the balance.
+   
    Design an algorithm that prompts the user to enter the 
    billing amount and the desired payment. The algorithm 
    then calculates and outputs the credit or the remaining 
