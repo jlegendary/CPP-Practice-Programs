@@ -4,8 +4,7 @@ Problem:
 
 
 Analysis:
-Given a file consisting of student names in the form "lastName, firstName middleName" (middle name optional),
- convert each name to the form "firstName middleName lastName", and display the results to the monitor.
+Given a file consisting of student names in the form "lastName, firstName middleName" (middle name optional), convert each name to the form "firstName middleName lastName", and display the new name.
  
  Program inputs:
  	StudentNames.txt
