@@ -78,3 +78,6 @@ C++ Practice Program:
 
 25. Remove Vowels
 	- Input string, output strings without vowels.
+
+26. Organize Name
+	- Arrange name from file to the format firstName middleName lastName.
