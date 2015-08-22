@@ -81,3 +81,6 @@ C++ Practice Program:
 
 26. Organize Name
 	- Arrange name from file to the format firstName middleName lastName.
+
+27. Types of Triangle
+	- Input three sides and output type of triangle.
