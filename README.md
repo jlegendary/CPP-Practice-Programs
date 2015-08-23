@@ -84,3 +84,7 @@ C++ Practice Program:
 
 27. Types of Triangle
 	- Input three sides and output type of triangle.
+
+28. Censor Information
+	- Input name, SSN, userID, and password
+	- Ouput name, censored SSN, userID, and censored password
