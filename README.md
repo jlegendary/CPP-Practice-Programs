@@ -88,3 +88,7 @@ C++ Practice Program:
 28. Censor Information
 	- Input name, SSN, userID, and password
 	- Ouput name, censored SSN, userID, and censored password
+
+29. Federal Tax Calculator
+	- Input martial status, number of children, salary, and pension plan
+	- Output tax owed
