@@ -92,3 +92,6 @@ C++ Practice Program:
 29. Federal Tax Calculator
 	- Input martial status, number of children, salary, and pension plan
 	- Output tax owed
+
+30. Array Practice Problem
+	- Organized array output
