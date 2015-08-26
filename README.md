@@ -95,3 +95,6 @@ C++ Practice Program:
 
 30. Array Practice Problem
 	- Organized array output
+
+31. Array Return Smallest and Largest
+	- Return smallest and largest element in array
