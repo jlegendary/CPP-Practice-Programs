@@ -98,3 +98,9 @@ C++ Practice Program:
 
 31. Array Return Smallest and Largest
 	- Return smallest and largest element in array
+
+32. Score Range
+	-Read file of test scores and output the range
+
+33. Weather Array
+	- Use array to store highest and lowest temperature
