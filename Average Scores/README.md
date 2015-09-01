@@ -1,5 +1,5 @@
 Problem:
-Write a program to calculate students’ average test scores and their grades. You may assume the following input data:
+Write a program to calculate students’ average test scores and their grades. You may assume the following input data:  
 >
 Johnson 85 83 77 91 76
 Aniston 80 90 95 93 48
